@@ -1,0 +1,3 @@
+D:/zty/WorkSpace/MyOwnProject/android-ndk-swig-example/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_fc92d.dir
+D:/zty/WorkSpace/MyOwnProject/android-ndk-swig-example/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
+D:/zty/WorkSpace/MyOwnProject/android-ndk-swig-example/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir

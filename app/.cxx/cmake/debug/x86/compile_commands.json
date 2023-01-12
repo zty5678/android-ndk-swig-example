@@ -1,0 +1,13 @@
+[
+{
+  "directory": "D:/zty/WorkSpace/MyOwnProject/android-ndk-swig-example/app/.cxx/cmake/debug/x86",
+  "command": "D:\\SDK\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --gcc-toolchain=D:/SDK/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/SDK/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DSeePlusPlus_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -std=c++14 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\SeePlusPlus.dir\\src\\main\\cpp\\SeePlusPlus.cpp.o -c D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\src\\main\\cpp\\SeePlusPlus.cpp",
+  "file": "D:/zty/WorkSpace/MyOwnProject/android-ndk-swig-example/app/src/main/cpp/SeePlusPlus.cpp"
+},
+
+{
+  "directory": "D:/zty/WorkSpace/MyOwnProject/android-ndk-swig-example/app/.cxx/cmake/debug/x86",
+  "command": "D:\\SDK\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --gcc-toolchain=D:/SDK/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/SDK/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DSeePlusPlus_Wrapper_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -std=c++14 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\SeePlusPlus_Wrapper.dir\\src\\main\\java\\com\\sureshjoshi\\core\\SeePlusPlusJAVA_wrap.cxx.o -c D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\src\\main\\java\\com\\sureshjoshi\\core\\SeePlusPlusJAVA_wrap.cxx",
+  "file": "D:/zty/WorkSpace/MyOwnProject/android-ndk-swig-example/app/src/main/java/com/sureshjoshi/core/SeePlusPlusJAVA_wrap.cxx"
+}
+]

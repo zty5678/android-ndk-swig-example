@@ -1,0 +1,23 @@
+Executable : D:\SDK\Android\sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HD:\zty\WorkSpace\MyOwnProject\android-ndk-swig-example\app
+-DCMAKE_FIND_ROOT_PATH=D:\zty\WorkSpace\MyOwnProject\android-ndk-swig-example\app\.cxx\cmake\debug\prefab\arm64-v8a\prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=D:\SDK\Android\sdk\ndk\21.0.6113669\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=D:\SDK\Android\sdk\ndk\21.0.6113669
+-DANDROID_PLATFORM=android-21
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_ANDROID_NDK=D:\SDK\Android\sdk\ndk\21.0.6113669
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\zty\WorkSpace\MyOwnProject\android-ndk-swig-example\app\build\intermediates\cmake\debug\obj\arm64-v8a
+-DCMAKE_MAKE_PROGRAM=D:\SDK\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=c++_shared
+-BD:\zty\WorkSpace\MyOwnProject\android-ndk-swig-example\app\.cxx\cmake\debug\arm64-v8a
+-GNinja
+jvmArgs : 
+
+Build command args:

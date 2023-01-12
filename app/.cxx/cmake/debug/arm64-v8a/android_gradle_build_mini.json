@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "D:\\SDK\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\SDK\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\SDK\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\SDK\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "SeePlusPlus_Wrapper-Debug-arm64-v8a": {
+      "artifactName": "SeePlusPlus_Wrapper",
+      "buildCommand": "D:\\SDK\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\.cxx\\cmake\\debug\\arm64-v8a\" SeePlusPlus_Wrapper",
+      "abi": "arm64-v8a",
+      "output": "D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libSeePlusPlus_Wrapper.so",
+      "runtimeFiles": [
+        "D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libSeePlusPlus.so"
+      ]
+    },
+    "SeePlusPlus-Debug-arm64-v8a": {
+      "artifactName": "SeePlusPlus",
+      "buildCommand": "D:\\SDK\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\.cxx\\cmake\\debug\\arm64-v8a\" SeePlusPlus",
+      "abi": "arm64-v8a",
+      "output": "D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libSeePlusPlus.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,8 @@
+# ninja log v5
+0	1052	695198417	CMakeFiles/SeePlusPlus.dir/src/main/cpp/SeePlusPlus.cpp.o	603ec9b99f763581
+1054	2033	695198418	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libSeePlusPlus.so	7cc0eb52373d1ee8
+2033	2449	695198419	../../../../src/main/java/com/sureshjoshi/core/SeePlusPlusJAVA_wrap.cxx	aa52324741a9f37e
+2033	2449	695198419	../../../../src/main/java/com/sureshjoshi/core/SeePlusPlus_Wrapper.java	aa52324741a9f37e
+2033	2449	695198419	../../../../src/main/java/com/sureshjoshi/core/SeePlusPlus_WrapperJNI.java	aa52324741a9f37e
+2449	3245	695198420	CMakeFiles/SeePlusPlus_Wrapper.dir/src/main/java/com/sureshjoshi/core/SeePlusPlusJAVA_wrap.cxx.o	be462ef6234f8d07
+3245	3434	695198420	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libSeePlusPlus_Wrapper.so	2bf1784e0073554a

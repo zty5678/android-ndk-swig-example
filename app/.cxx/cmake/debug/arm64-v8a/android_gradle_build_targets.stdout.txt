@@ -1,0 +1,6 @@
+ninja: Entering directory `D:\zty\WorkSpace\MyOwnProject\android-ndk-swig-example\app\.cxx\cmake\debug\arm64-v8a'
+[1/5] Building CXX object CMakeFiles/SeePlusPlus.dir/src/main/cpp/SeePlusPlus.cpp.o
+[2/5] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\libSeePlusPlus.so
+[3/5] Swig source
+[4/5] Building CXX object CMakeFiles/SeePlusPlus_Wrapper.dir/src/main/java/com/sureshjoshi/core/SeePlusPlusJAVA_wrap.cxx.o
+[5/5] Linking CXX shared module ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\libSeePlusPlus_Wrapper.so

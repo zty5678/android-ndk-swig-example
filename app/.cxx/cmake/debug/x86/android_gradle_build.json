@@ -1,0 +1,78 @@
+{
+  "stringTable": {
+    "0": "D:/zty/WorkSpace/MyOwnProject/android-ndk-swig-example/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android21 --gcc-toolchain=D:/SDK/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/SDK/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DSeePlusPlus_EXPORTS -I../../../../src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -Wall -std=c++14 -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=i686-none-linux-android21 --gcc-toolchain=D:/SDK/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/SDK/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DSeePlusPlus_Wrapper_EXPORTS -I../../../../src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -Wall -std=c++14 -O0 -fno-limit-debug-info -fPIC",
+    "3": "null"
+  },
+  "buildFiles": [
+    "D:\\SDK\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\SDK\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\SDK\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "D:\\SDK\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "SeePlusPlus-Debug-x86": {
+      "buildCommand": "D:\\SDK\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\.cxx\\cmake\\debug\\x86\" SeePlusPlus",
+      "buildType": "debug",
+      "toolchain": "3506867724",
+      "abi": "x86",
+      "artifactName": "SeePlusPlus",
+      "files": [
+        {
+          "src": "D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\src\\main\\cpp\\SeePlusPlus.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libSeePlusPlus.so",
+      "runtimeFiles": []
+    },
+    "SeePlusPlus_Wrapper-Debug-x86": {
+      "buildCommand": "D:\\SDK\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\.cxx\\cmake\\debug\\x86\" SeePlusPlus_Wrapper",
+      "buildType": "debug",
+      "toolchain": "3506867724",
+      "abi": "x86",
+      "artifactName": "SeePlusPlus_Wrapper",
+      "files": [
+        {
+          "src": "D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\src\\main\\java\\com\\sureshjoshi\\core\\SeePlusPlusJAVA_wrap.cxx",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\src\\main\\java\\com\\sureshjoshi\\core\\SeePlusPlus_Wrapper.java",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\src\\main\\java\\com\\sureshjoshi\\core\\SeePlusPlus_WrapperJNI.java",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\src\\main\\cpp\\SeePlusPlus.i",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\zty\\WorkSpace\\MyOwnProject\\android-ndk-swig-example\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libSeePlusPlus_Wrapper.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3506867724": {
+      "cppCompilerExecutable": "D:\\SDK\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp",
+    "cxx"
+  ]
+}

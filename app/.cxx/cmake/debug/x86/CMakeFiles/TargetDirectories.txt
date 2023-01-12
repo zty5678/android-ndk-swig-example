@@ -1,0 +1,4 @@
+D:/zty/WorkSpace/MyOwnProject/android-ndk-swig-example/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+D:/zty/WorkSpace/MyOwnProject/android-ndk-swig-example/app/.cxx/cmake/debug/x86/CMakeFiles/SeePlusPlus.dir
+D:/zty/WorkSpace/MyOwnProject/android-ndk-swig-example/app/.cxx/cmake/debug/x86/CMakeFiles/SeePlusPlus_Wrapper.dir
+D:/zty/WorkSpace/MyOwnProject/android-ndk-swig-example/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
